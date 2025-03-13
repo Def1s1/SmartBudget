@@ -1,4 +1,4 @@
-# SuperBudget
+# SmartBudget
 
 SuperBudget is an iOS and Android app built with React Native and Expo.
 
