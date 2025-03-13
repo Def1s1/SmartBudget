@@ -1,50 +1,50 @@
-# Welcome to your Expo app 👋
+# SuperBudget
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+SuperBudget is an iOS and Android app built with React Native and Expo.
 
-## Get started
+The app is a personal finance tracking tool that allows you to enter every expense and income to ensure you manage your budget effectively.
 
-1. Install dependencies
+<p align="center">
+  <img src="https://via.placeholder.com/250" width="250"/>
+  <img src="https://via.placeholder.com/250" width="250"/>
+  <img src="https://via.placeholder.com/250" width="250"/>
+</p>
 
-   ```bash
-   npm install
-   ```
+### Download the app
 
-2. Start the app
+##### PlayStore:
 
-   ```bash
-    npx expo start
-   ```
+<a href=''><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="170"/></a>
 
-In the output, you'll find options to open the app in a
+##### AppStore:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+<a href=''><img alt='Get it on AppStore' src='https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg' width="140"/></a>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Motivations
 
-## Get a fresh project
+This project was created as a pet project to learn React Native and Expo.
 
-When you're ready, run:
+SuperBudget does not aim to be revolutionary or even highly advanced; it's just a simple app for people who want to manage their finances easily.
 
-```bash
-npm run reset-project
-```
+### Technical details
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+The app is made with React Native using the following tech stack:
+- React Native: [https://reactnative.dev/](https://reactnative.dev/)
+- Expo: [https://expo.dev/](https://expo.dev/)
 
-## Learn more
+The app follows a modular component-based architecture, ensuring maintainability and scalability.
 
-To learn more about developing your project with Expo, look at the following resources:
+### Data provider
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Expense data is stored securely using Supabase and Firebase Firestore.
 
-## Join the community
+<p align="center">
+  <img src="https://via.placeholder.com/200" width="200" />
+</p>
 
-Join our community of developers creating universal apps.
+### Copyright
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+    Copyright (C) 2025 Def1s1. The name "SuperBudget", the app idea, and assets (images, names, wordings, etc.) are all under copyright.
+
+    Sources are available under the Apache 2 license (See LICENSE for details), and contributions are warmly welcomed!
+
