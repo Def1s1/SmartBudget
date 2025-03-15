@@ -6,15 +6,13 @@ The app is a personal finance tracking tool that allows you to enter every expen
 
 <p align="center">
   <img src="https://via.placeholder.com/250" width="250"/>
-  <img src="https://via.placeholder.com/250" width="250"/>
-  <img src="https://via.placeholder.com/250" width="250"/>
 </p>
 
 ### Download the app
 
 ##### PlayStore:
 
-<a href=''><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="170"/></a>
+<a href=''><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="140"/></a>
 
 ##### AppStore:
 
