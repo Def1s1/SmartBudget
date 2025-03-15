@@ -5,7 +5,7 @@ SuperBudget is an iOS and Android app built with React Native and Expo.
 The app is a personal finance tracking tool that allows you to enter every expense and income to ensure you manage your budget effectively.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Defis1/SmartBudget/main/assets/images/logo-git.png" width="250"/>
+  <img src="https://github.com/Def1s1/SmartBudget/blob/main/assets/images/logo-git.png" width="250"/>
 </p>
 
 ### Download the app
