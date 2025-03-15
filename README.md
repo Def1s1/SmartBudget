@@ -12,7 +12,7 @@ The app is a personal finance tracking tool that allows you to enter every expen
 
 ##### PlayStore:
 
-<a href=''><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="140"/></a>
+<a href=''><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="170"/></a>
 
 ##### AppStore:
 
